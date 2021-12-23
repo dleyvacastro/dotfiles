@@ -1,0 +1,38 @@
+{
+    "nord-wave": {
+        "rofi": "nord",
+        "kitty": "Blazer"
+    },
+    "rosepine": {
+        "rofi": "DEFAULT",
+        "kitty": "DEFAULT"
+    },
+    "onedark": {
+        "rofi": "onedark",
+        "kitty": "OneDark"
+    },
+    "monokai-pro": {
+        "rofi": "material",
+        "kitty": "DEFAULT"
+    },
+    "material-darker": {
+        "rofi": "DEFAULT",
+        "kitty": "MaterialDark"
+    },
+    "material-ocean": {
+        "rofi": "material-ocean",
+        "kitty": "Argonaut"
+    },
+    "dark-grey": {
+        "rofi": "DEFAULT",
+        "kitty": "DEFAULT"
+    },
+    "dracula": {
+        "rofi": "dracula",
+        "kitty": "Dracula"
+    },
+    "nord": {
+        "rofi": "nord",
+        "kitty": "nord"
+    }
+}

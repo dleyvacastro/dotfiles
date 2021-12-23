@@ -1,0 +1,1 @@
+/home/dleyvacastro/.fzf/shell/key-bindings.fish
