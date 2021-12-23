@@ -1,0 +1,7 @@
+configuration {
+    modi: "window,drun,ssh,combi";
+    font: "VictorMono Nerd Font 11";
+    show-icons: true;
+}
+// @theme "material-ocean"
+@theme "dracula"
