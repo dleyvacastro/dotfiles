@@ -7,3 +7,4 @@
 - [Rofi](#rofi)
 - [Autoinstall](#autoinstall)
 # Actual Distro
+![Image text](/img/Endeavor_logo.png)
