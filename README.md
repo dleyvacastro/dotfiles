@@ -8,7 +8,7 @@
 - [Autoinstall](#autoinstall)
 # Actual Distro
 <div style="text-align: center;">
-![Image text](/img/Endeavour_logo.png)
+![alt text](/img/Endeavour_logo.png)
 </div>
 I'm actually using [EndeavourOS](https://endeavouros.com/) with the Xfce desktop enviroment
 
