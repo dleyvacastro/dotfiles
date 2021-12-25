@@ -7,8 +7,6 @@
 - [Rofi](#rofi)
 - [Autoinstall](#autoinstall)
 # Actual Distro
-<div style="text-align: center;">
-![alt text](/img/Endeavour_logo.png)
-</div>
+![alt text](/img/Endeavour_logo.png) \
 I'm actually using [EndeavourOS](https://endeavouros.com/) with the Xfce desktop enviroment
 
