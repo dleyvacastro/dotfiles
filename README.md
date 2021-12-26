@@ -32,17 +32,33 @@ The config are basiclly the same as some guy on yt with some minor changes.
 [Go to my nvim repo](https://github.com/dleyvacastro/nvim)
 
 # Terminal
-I use [kitty]() as my preference terminal emulator with [fish]() as my shell.
+I use [kitty](https://sw.kovidgoyal.net/kitty/) as my preference terminal emulator with [fish](https://fishshell.com/) as my shell.
 ## Kitty
-My [Kitty config files] are composed by a few files and a theme folder.
+My [Kitty config files](/.config/kitty) are composed by a few files and a theme folder.
 ### Font config
 - Font: [VictorMono Nerd Font].
 - Font size: 11.
 - Ligatures: Yes, only disble when are focused by the cursor.
 ### General config
-- Some url tweeks opened with [Brave]().
-- ´control + c´: Copy or interrupt function.
+- Some url tweeks opened with [Brave](brave.com).
+- `control + c`: Copy or interrupt function.
 - Opacity: 85%.
 ### Themes 
-
+All the themes used come from [this repo]().
+CS used:
+- [ayu](/.config/kitty/themes/ayu.conf)
+- [OneDark](/.config/kitty/themes/OneDark.conf)
+- [ayu_mirage](/.config/kitty/themes/ayu_mirage.conf)
+- [Dracula](/.config/kitty/themes/Dracula.conf)
+- [Blazer](/.config/kitty/themes/Blazer.conf)
+- [MaterialDark](/.config/kitty/themes/MaterialDark.conf)
+- [Obsidian](/.config/kitty/themes/Obsidian.conf)
+- [Bright_Lights](/.config/kitty/themes/Bright_Lights.conf)
+- [Argonaut](/.config/kitty/themes/Argonaut.conf)
+- [SpaceGray](/.config/kitty/themes/SpaceGray.conf)
+- [MonaLisa](/.config/kitty/themes/MonaLisa.conf)
+- [Spacedust](/.config/kitty/themes/Spacedust.conf)
+- [Ollie](/.config/kitty/themes/Ollie.conf)
+- [polar](/.config/kitty/themes/polar.conf)
+- [nord](/.config/kitty/themes/nord.conf)
 
