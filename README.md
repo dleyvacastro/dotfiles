@@ -1,4 +1,3 @@
-<div style="text-align: justify">
 # Dotfiles
 # Table of contents
 - [General Info](#general-info)
@@ -14,14 +13,16 @@
 - [Autoinstall](#autoinstall)
 # General Info
 ![alt text](/img/Endeavour_logo.png) \
+
+<div style="text-align: justify">
 I'm actually using [EndeavourOS](https://endeavouros.com/) with the Xfce desktop enviroment base.
 This is an user friendly Arch Based distro. Xcfe provides all the basic utilities like network managment, file manager, etc. But 
-it's only used as base, thus, my usual enviroment is composed by a stad alone Tiling Window Manager and
-some dependences like Nitrogen, Picom and some theming. \
-
+it's only used as base, thus, my usual enviroment is composed by a stand alone Tiling Window Manager and
+some dependences like Nitrogen, Picom and some theming. 
+\
 New Target Distro: [Arch Linux](https://archlinux.org/)
 The objective is being capable of set working full-featured and minimalist work enviroment from base arch.
-
+</div>
 # [Qtile](https://github.com/dleyvacastro/qtile)
 [Qtile](#window-manager) is a stand alone Tiling window manager written in python. \
 At this point i've setted all basic utilities and a dynamic workflow, you can see all my configs in [its own repo](https://github.com/dleyvacastro/qtile). \
