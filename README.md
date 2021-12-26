@@ -10,6 +10,7 @@
 - [Terminal](#terminal)
 - [Rofi](#rofi)
 - [Software Used](#sofware-used)
+- [Custom Scripts](#custom-scripts)
 - [Autoinstall](#autoinstall)
 # General Info
 ![alt text](/img/Endeavour_logo.png) \
@@ -36,7 +37,7 @@ I use [kitty](https://sw.kovidgoyal.net/kitty/) as my preference terminal emulat
 ## Kitty
 My [Kitty config files](/.config/kitty) are composed by a few files and a theme folder.
 ### Font config
-- Font: [VictorMono Nerd Font].
+- Font: [VictorMono Nerd Font](https://github.com/ryanoasis/nerd-fonts/releases/download/v2.1.0/VictorMono.zip).
 - Font size: 11.
 - Ligatures: Yes, only disble when are focused by the cursor.
 ### General config
@@ -44,21 +45,37 @@ My [Kitty config files](/.config/kitty) are composed by a few files and a theme 
 - `control + c`: Copy or interrupt function.
 - Opacity: 85%.
 ### Themes 
-All the themes used come from [this repo]().
+All the themes used come from [this repo](https://github.com/dexpota/kitty-themes). \
 CS used:
-- [ayu](/.config/kitty/themes/ayu.conf)
-- [OneDark](/.config/kitty/themes/OneDark.conf)
-- [ayu_mirage](/.config/kitty/themes/ayu_mirage.conf)
-- [Dracula](/.config/kitty/themes/Dracula.conf)
-- [Blazer](/.config/kitty/themes/Blazer.conf)
-- [MaterialDark](/.config/kitty/themes/MaterialDark.conf)
-- [Obsidian](/.config/kitty/themes/Obsidian.conf)
-- [Bright_Lights](/.config/kitty/themes/Bright_Lights.conf)
-- [Argonaut](/.config/kitty/themes/Argonaut.conf)
-- [SpaceGray](/.config/kitty/themes/SpaceGray.conf)
-- [MonaLisa](/.config/kitty/themes/MonaLisa.conf)
-- [Spacedust](/.config/kitty/themes/Spacedust.conf)
-- [Ollie](/.config/kitty/themes/Ollie.conf)
-- [polar](/.config/kitty/themes/polar.conf)
-- [nord](/.config/kitty/themes/nord.conf)
+- [ayu](/.config/kitty/themes/ayu.conf).
+- [OneDark](/.config/kitty/themes/OneDark.conf).
+- [ayu_mirage](/.config/kitty/themes/ayu_mirage.conf).
+- [Dracula](/.config/kitty/themes/Dracula.conf).
+- [Blazer](/.config/kitty/themes/Blazer.conf).
+- [MaterialDark](/.config/kitty/themes/MaterialDark.conf).
+- [Obsidian](/.config/kitty/themes/Obsidian.conf).
+- [Bright_Lights](/.config/kitty/themes/Bright_Lights.conf).
+- [Argonaut](/.config/kitty/themes/Argonaut.conf). (Default)
+- [SpaceGray](/.config/kitty/themes/SpaceGray.conf).
+- [MonaLisa](/.config/kitty/themes/MonaLisa.conf).
+- [Spacedust](/.config/kitty/themes/Spacedust.conf).
+- [Ollie](/.config/kitty/themes/Ollie.conf).
+- [polar](/.config/kitty/themes/polar.conf).
+- [nord](/.config/kitty/themes/nord.conf).
 
+The theme is applied acording to the current [Master Color Scheme]().
+## Fish
+Basiclly my [Fish config]((.config/fish)) consist in setting up the [starship prompt]("starship") and some aliases
+for [custom scripts](#custom-scripts) and the config command for this repo.
+## Starship
+I took Antonio Sarosi's [Starship](https://starship.rs/) config file: [check it out](https://github.com/antoniosarosi/dotfiles/blob/master/.config/starship.toml).
+# Rofi
+I use [rofi](https://github.com/davatorium/rofi) as a launching and switching app menu, using themes some internet themes, matching with the current [Master Color Scheme]().
+Font used: [VictorMono Nerd Font](https://github.com/ryanoasis/nerd-fonts/releases/download/v2.1.0/VictorMono.zip).
+## Themes & Color Schemes
+- [nord](/.config/rofi/themes/nord.rasi).
+- [material-ocean](/.config/rofi/themes/material-ocean.rasi). (Default)
+- [dracula](/.config/rofi/themes/dracula.rasi).
+- [material](/.config/rofi/themes/material.rasi).
+- [onedark](/.config/rofi/themes/onedark.rasi).
+- [slate](/.config/rofi/themes/slate.rasi).
