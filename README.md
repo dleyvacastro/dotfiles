@@ -1,4 +1,4 @@
-
+<div style="text-align: justify">
 # Dotfiles
 # Table of contents
 - [General Info](#general-info)
@@ -79,3 +79,32 @@ Font used: [VictorMono Nerd Font](https://github.com/ryanoasis/nerd-fonts/releas
 - [material](/.config/rofi/themes/material.rasi).
 - [onedark](/.config/rofi/themes/onedark.rasi).
 - [slate](/.config/rofi/themes/slate.rasi).
+# Software Used
+## System utilities
+- [libnotify]().
+- [Notification-deamon]().
+- [Thunar]().
+- [Nitrogen]().
+- [Picom - jonaburg fork](https://github.com/jonaburg/picom).
+- [Lxappereance]().
+- [Volumeicon]().
+- [Cbatticon]().
+- [TimeShift]().
+- [Grub customizer]().
+- [Gparted]().
+- [Lightdm]().
+## Comun Apps
+- Browser: [Brave](brave.com).
+- Social:
+    - [WhatDesk]().
+    - [Telegram Desktop]().
+    - [Discord]().
+    - [Rambox]().
+- Mail Manager: [Thunderbird]().
+- Music: [Spotify]().
+- Clipboard manager: [Diodon]().
+- [KDE Connect]().
+- Offimatica suite: [OnlyOffice]().
+# Custom Scripts
+I've created some python and bash scripts to automatice and trigger some changes mainly related to qtile thememing
+</div>
