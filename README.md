@@ -14,7 +14,7 @@
 # General Info
 ![alt text](/img/Endeavour_logo.png) \
 
-<div style="text-align: justify">
+<div style="text-align: justify;">
 I'm actually using [EndeavourOS](https://endeavouros.com/) with the Xfce desktop enviroment base.
 This is an user friendly Arch Based distro. Xcfe provides all the basic utilities like network managment, file manager, etc. But 
 it's only used as base, thus, my usual enviroment is composed by a stand alone Tiling Window Manager and
