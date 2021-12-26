@@ -2,7 +2,7 @@
 # Dotfiles
 # Table of contents
 - [General Info](#general-info)
-- [Window Manager](#window-manager)
+- [Window Manager](#qtile)
 - [Text Editor](#text-editor)
 - [Rofi](#rofi)
 - [Software Used](#sofware-used)
@@ -17,6 +17,6 @@ some dependences like Nitrogen, Picom and some theming.
 New Target Distro: [Arch Linux](https://archlinux.org/)
 The objective is being capable of set working full-featured and minimalist work enviroment from base arch.
 
-# Qtile(https://gothub.com/dleyvacastro/qtile)
+# [Qtile](https://github.com/dleyvacastro/qtile)
 [Qtile](#window-manager) is a stand aline Tiling window manager written in python
 
