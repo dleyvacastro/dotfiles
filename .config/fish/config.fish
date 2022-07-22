@@ -14,5 +14,9 @@ if status is-interactive
     alias theme='sh ~/.config/qtile/settings/theme_loader.sh'
     alias wallpaper='python ~/.config/apthemes/wall_init.py'
     alias config='/usr/bin/git --git-dir=$HOME/.cfg/ --work-tree=$HOME'
+
+    alias rasp_init='sudo remoteit connection add --id 80:00:00:00:01:23:0E:80 --port 3000'
+    alias rasp_close='sudo remoteit connection remove --id 80:00:00:00:01:23:0E:80'
     # neofetch
+    export PATH="$HOME/.emacs.d/bin:$PATH"
 end
